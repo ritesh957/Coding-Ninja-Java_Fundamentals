@@ -15,13 +15,13 @@ public class Sort_0_1_2 {
         for (int ele:arr)
         {
             if (ele==0)
-            {
+            
                 zero++;
-            }
+            
             else if
-            {
+            
                 (ele==1)one++;
-            }
+            
             // else if (ele==2)two++;
         }
         int two=arr.length-zero-one; //Another Way to Get Two
